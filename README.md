@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/iteratorscode/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iteratorscode&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  
 </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iteratorscode&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Iteratorscode's github stats" />
+<br/>
 
-<a href="https://github.com/iteratorscode/algorithm">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iteratorscode&repo=algorithm&theme=material-palenight" />
-</a>
+**Repos**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iteratorscode&repo=algorithm&theme=material-palenight" />
