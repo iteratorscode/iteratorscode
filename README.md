@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iteratorscode&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Iteratorscode's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iteratorscode&show_icons=true&theme=material-palenight" alt="Iteratorscode's github stats" />
 
 **Repos**
 
