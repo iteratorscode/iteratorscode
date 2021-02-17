@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 **Repos**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iteratorscode&repo=algorithm&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iteratorscode&repo=algorithm&theme=material-palenight&show_owner=true" />
